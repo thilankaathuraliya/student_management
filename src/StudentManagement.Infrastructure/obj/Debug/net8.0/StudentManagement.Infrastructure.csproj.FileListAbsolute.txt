@@ -17,3 +17,8 @@ C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentMa
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.pdb
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.genruntimeconfig.cache
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Infrastructure\obj\Debug\net8.0\ref\StudentManagement.Infrastructure.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.sourcelink.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Infrastructure.deps.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Infrastructure.runtimeconfig.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Infrastructure.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Infrastructure.pdb

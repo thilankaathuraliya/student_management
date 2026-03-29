@@ -36,8 +36,8 @@
               "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Application\\StudentManagement.Application.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Application\\StudentManagement.Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj"
+              "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj"
               }
             }
           }
@@ -65,6 +65,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
             },
@@ -246,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj": {
+    "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
         "projectName": "StudentManagement.Infrastructure",
-        "projectPath": "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Project\\StudentManagement\\student_management\\src\\StudentManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

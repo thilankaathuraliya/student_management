@@ -20,15 +20,30 @@ public static class DatabaseInitializer
 
         await db.Database.MigrateAsync(cancellationToken);
 
-        if (await adminRepo.AnyAsync(cancellationToken))
+        var username = adminSettings.Username.Trim();
+        var user = await adminRepo.GetByUsernameAsync(username, cancellationToken);
+
+        if (user is null)
+        {
+            user = new AdminUser
+            {
+                Id = Guid.NewGuid(),
+                Username = username,
+            };
+            user.PasswordHash = passwordHasher.HashPassword(user, adminSettings.Password);
+            await adminRepo.AddAsync(user, cancellationToken);
+            return;
+        }
+
+        var verification = passwordHasher.VerifyHashedPassword(
+            user,
+            user.PasswordHash,
+            adminSettings.Password);
+        if (verification == PasswordVerificationResult.Success)
             return;
 
-        var user = new AdminUser
-        {
-            Id = Guid.NewGuid(),
-            Username = adminSettings.Username.Trim(),
-        };
         user.PasswordHash = passwordHasher.HashPassword(user, adminSettings.Password);
-        await adminRepo.AddAsync(user, cancellationToken);
+        db.AdminUsers.Update(user);
+        await db.SaveChangesAsync(cancellationToken);
     }
 }

@@ -9,3 +9,7 @@ C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentMa
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Domain\obj\Debug\net8.0\refint\StudentManagement.Domain.dll
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.pdb
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Domain\obj\Debug\net8.0\ref\StudentManagement.Domain.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.sourcelink.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Domain.deps.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Domain.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Domain.pdb

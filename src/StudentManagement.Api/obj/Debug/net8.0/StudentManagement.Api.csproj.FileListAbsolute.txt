@@ -150,3 +150,17 @@ C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentMa
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\obj\Debug\net8.0\StudentManagement.Api.pdb
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\obj\Debug\net8.0\StudentManagement.Api.genruntimeconfig.cache
 C:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\obj\Debug\net8.0\ref\StudentManagement.Api.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\obj\Debug\net8.0\StudentManagement.Api.sourcelink.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\appsettings.Development.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\appsettings.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.staticwebassets.endpoints.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.exe
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.deps.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.runtimeconfig.json
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\build_verify\Api\StudentManagement.Api.pdb
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+c:\Users\user\Desktop\Project\StudentManagement\student_management\src\StudentManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
